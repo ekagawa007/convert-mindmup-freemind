@@ -2,6 +2,8 @@
 
 Convert mind maps saved in [MindMup](https://www.mindmup.com/) format (`.mup`) to [FreeMind](https://freemind.sourceforge.net/) format (`.mm`).
 
+Version 1.0.0 20260619 First release
+
 ## Features
 
 - Converts **MindMup JSON** (`.mup`, current format) and **legacy MindMup XML** exports — format is auto-detected from file content.
@@ -53,3 +55,5 @@ tests/
     sample_legacy.mup   # Legacy MindMup XML example
     sample.mm           # Expected FreeMind output for sample.mup
 ```
+
+## License
