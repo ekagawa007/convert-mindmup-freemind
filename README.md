@@ -57,3 +57,5 @@ tests/
 ```
 
 ## License
+
+MIT License
